@@ -44,7 +44,6 @@ _`.editorconfig`, `.gitattributes`, `.gitignore`, `.stylelintrc`, `.travis.yml`,
 
 ```bash
 .
-├── docs/                 # каталог публикации проекта на github
 ├── build/                # каталог сборки проекта (cоздаётся автоматически)
 ├── source/               # каталог для размещения исходных файлов проекта
 │   ├── css/              # каталог файлов стилей
